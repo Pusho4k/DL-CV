@@ -1,0 +1,17 @@
+body {
+    width: 90%;
+    margin: auto;
+    background-color: #01dbc5;
+    }
+
+    header {
+        height: 25em;
+        display: flex;  
+        text-align: center;    
+        }
+
+footer{
+    text-align: center;
+    color: white;
+    background-color: black;
+}
